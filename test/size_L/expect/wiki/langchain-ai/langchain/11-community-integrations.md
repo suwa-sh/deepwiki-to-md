@@ -250,7 +250,6 @@ langchain-provider/
 │   ├── integration_tests/     # Standard compliance tests
 │   └── unit_tests/           # Unit tests
 └── docs/                      # Documentation
-
 ```
 
 ### Registration Process
