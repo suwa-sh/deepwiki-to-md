@@ -137,7 +137,6 @@ resolution-markers = [
     "python_full_version >= '3.12.4' and python_full_version < '3.13'",
     ...
 ]
-
 ```
 
 **Sources:** [libs/core/uv.lock3-13](https://github.com/langchain-ai/langchain/blob/54ea6205/libs/core/uv.lock#L3-L13) [libs/langchain/uv.lock3-17](https://github.com/langchain-ai/langchain/blob/54ea6205/libs/langchain/uv.lock#L3-L17)
