@@ -6,7 +6,7 @@
 
 1. [日本語 (Japanese)](#日本語-japanese)
    - [概要](#1-概要)
-   - [はじめる](#2-getting-started)
+   - [Getting Started](#2-getting-started)
    - [コマンドライン仕様](#3-コマンドライン仕様)
 2. [English (英語)](#english-英語)
    - [Overview](#1-overview)
@@ -28,7 +28,7 @@
 2.  DeepWikiのWikiコンテンツをMarkdown形式で取得できるようにします。
 3.  Mermaidの図も適切に変換・保存して再利用できるようにします。
 
-## 2. はじめる
+## 2. Getting Started
 
 ### 2.1. インストール
 
